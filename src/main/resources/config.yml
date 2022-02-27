@@ -1,0 +1,4 @@
+trigger:
+  pizza:
+    itemsadder-nbt-id: "gui_shop_pizza"
+    command: "tell Werradith pozri tica"

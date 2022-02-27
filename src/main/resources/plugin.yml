@@ -1,0 +1,4 @@
+name: MenuThingy
+version: '${version}'
+main: org.op65n.menuthingy.MenuThingyPlugin
+api-version: 1.18
